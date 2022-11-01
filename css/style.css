@@ -1,7 +1,5 @@
 
 
-
-
 body header h1 {
     margin: unset;
 }
@@ -11,7 +9,7 @@ body header h1 {
 }
 
 nav {
-    text-align: center; 
+    text-align: center;
     margin-top: 15px;
 }
 
@@ -24,4 +22,13 @@ nav a {
     text-decoration: none;
     padding-left: 15px;
     padding-right: 15px;
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
 }
