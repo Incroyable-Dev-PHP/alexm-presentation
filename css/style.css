@@ -36,3 +36,7 @@ nav ul li {
 section a {
     text-decoration: none;
 }
+
+table {
+    border-style: ridge;
+}
