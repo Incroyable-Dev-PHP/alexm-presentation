@@ -40,7 +40,7 @@
 ###### *my-passions.html*
 - [x] *(h1)*
 - [x] *(h2)*
-- [x] 1 seule photo légendée *(figure/figcaption)* pour chaque passion
+- [ ] 1 seule photo légendée *(figure/figcaption)* pour chaque passion
 - [x] 1 seul paragraphe *(p)* pour chaque passion
 - [x] 2 passions minimum
 ###### *Remarques*
